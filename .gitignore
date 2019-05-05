@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# random
+/non-app-files
+/trash
+
 # testing
 /coverage
 
